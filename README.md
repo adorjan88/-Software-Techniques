@@ -2,4 +2,4 @@
 
 This repository consists of small projects I created when I was learning new concepts in Java, Android Studio, and so on. 	
 
-The main purpose of this repository is archiving code.
+The main purpose of this repository is archiving code, and testing new features of certain programming languages.
